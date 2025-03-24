@@ -3,7 +3,7 @@
 <p align="center">
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 
-## Professores Orientadores: <a href="">Prof. Vinicius Heltai Pacheco </a>, <a href="">Prof. Marco Aurelio Lima Barbosar</a>, <a href="">Profª. Katia Milani Lara Bossi e <a href="">Prof. Victor Bruno Alexander Rosetti de Quiroz</a>
+## Professores Orientadores: <a href="">Prof. Vinicius Heltai Pacheco </a>, <a href="">Prof. Marco Aurelio Lima Barbosar</a>, <a href="">Profª. Katia Milani Lara Bossi</a> e <a href="">Prof. Victor Bruno Alexander Rosetti de Quiroz</a>
 </a>
 
 # UberPass - Proteção e tranquilidade em cada viagem.
