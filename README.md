@@ -10,7 +10,9 @@ Descrição
 Integrantes do Projeto
 
 Lucas Silva Maciel | RA 24025942| E-mail: lucassmaciel2006@gmail.com
+
 Leonardo Santos da Silva | RA 24026495| E-mail: Leonardoss0227@gmail.com
+
 .| RA . | E-mail: .
 . | RA . | E-mail: .
 
@@ -59,8 +61,8 @@ O UberPass foi desenvolvido para proporcionar mais segurança aos motoristas e p
 
 🛠️ Iniciar o UberPass
 
-Clone o repositório:
-git clone https://github.com/seu-usuario/ubershield.git
+Clone o repositório
+
 Abra no Android Studio: Selecione "Open an existing project" e abra a pasta clonada.
 
 Configuração: Conecte um dispositivo físico ou configure um emulador em Tools > AVD Manager.
