@@ -51,7 +51,7 @@ Pedro Della Rosa Antônio | RA 24026018 E-mail: pedrodr.antonio466@gmail.com
 
 Android Studio: (Desenvolvimento do Aplicativo).
 
-Retrofit: (Autenticação de usuários e integração com o banco de dados).
+MySQL e Azure: (Autenticação de usuários e integração com o banco de dados).
 
 API Google Maps: (Análise do mapa e sugestão das rotas mais seguras, além de informar o pasageiro e motorista das zonas de perigo).
 
