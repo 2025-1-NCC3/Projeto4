@@ -51,7 +51,7 @@ Felipe Vallim Soares| RA 24026060| E-mail: Fvsoares2004@gmail.com
 
 Android Studio: (Desenvolvimento do Aplicativo).
 
-CodeSandBox: (Autenticação de usuários e integração com o banco de dados).
+Retrofit: (Autenticação de usuários e integração com o banco de dados).
 
 API Google Maps: (Análise do mapa e sugestão das rotas mais seguras, além de informar o pasageiro e motorista das zonas de perigo).
 
