@@ -47,7 +47,7 @@ Pedro Della Rosa Antônio | RA 24026018 E-mail: pedrodr.antonio466@gmail.com
 📂 executáveis/: Contém binários e arquivos para instalação.
 🖼️ imagens/: Pasta destinada a imagens do sistema.
 💻 src/: Contém o código-fonte, separado em Backend e Frontend.
-💻 Ambientes e Ferramentas de Desenvolvimento
+💻 Ambientes e Ferramentas de Desenvolvimento.
 
 Android Studio: (Desenvolvimento do Aplicativo).
 
@@ -70,7 +70,7 @@ O UberPass foi desenvolvido para proporcionar mais segurança aos motoristas e p
 
 # 🛠️ Iniciar o UberPass
 
-Clone o repositório
+Clone o repositório.
 
 Abra no Android Studio: Selecione "Open an existing project" e abra a pasta clonada.
 
