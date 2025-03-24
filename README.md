@@ -16,7 +16,7 @@ Lucas Silva Maciel | RA 24025942| E-mail: lucassmaciel2006@gmail.com
 
 Leonardo Santos da Silva | RA 24026495| E-mail: Leonardoss0227@gmail.com
 
-.| RA . | E-mail: .
+Felipe Vallim Soares| RA 24026060| E-mail: Fvsoares2004@gmail.com
 . | RA . | E-mail: .
 
 📂 Estrutura do Projeto
