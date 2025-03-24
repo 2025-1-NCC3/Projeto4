@@ -89,4 +89,4 @@ Este projeto está licenciado sob a licença CC BY 4.0. Para mais informações,
 
 🗺️ GOVERNO FEDERAL. Registro Nacional de Infração de Trânsito - RENAINF. Disponível em: https://dados.gov.br/dados/conjuntos-dados/registro-nacional-de-infracoes-de-transito-renainf. Acesso em: 25 mar. 2025. | (Análise Descritiva de Dados)
 
-📍 GOOGLE. Console Cloud. Disponível em: https://console.cloud.google.com/. Acesso em: 23 mar. 2025. | (API do Google)
+📍GOOGLE. Console Cloud. Disponível em: https://console.cloud.google.com/. Acesso em: 23 mar. 2025. | (API do Google)
