@@ -1,2 +1,78 @@
-# Projeto4
-Projeto 4
+# UberPass - Proteção e tranquilidade em cada viagem.
+
+🚖 Segurança no Transporte - Grupo4
+
+Descrição
+
+​O UberPass é um aplicativo desenvolvido no Android Studio utilizando a linguagem Java, projetado para aprimorar a segurança dos usuários durante suas viagens. Entre suas funcionalidades, destaca-se a discagem rápida para os serviços de emergência 180 e 190, além de fornecer informações sobre delegacias próximas e alertas de zonas de perigo. O aplicativo também oferece o Uber Pass, que proporciona benefícios como segurança extra e acesso a veículos mais novos, garantindo uma experiência de viagem mais segura e confortável para todos os usuários.​
+
+
+Integrantes do Projeto
+
+Lucas Silva Maciel | RA 24025942| E-mail: lucassmaciel2006@gmail.com
+Leonardo Santos da Silva | RA 24026495| E-mail: Leonardoss0227@gmail.com
+.| RA . | E-mail: .
+. | RA . | E-mail: .
+
+📂 Estrutura do Projeto
+
+-Raiz
+|
+|-->documentos
+ |-->antigos
+ |Documentação.docx
+|-->executáveis
+ |-->windows
+ |-->android
+ |-->HTML
+|-->imagens
+|-->src
+ |-->Backend
+ |-->Frontend
+|readme.md
+📄 README.md: Guia geral do projeto.
+📁 documentos/: Armazena toda a documentação do sistema.
+📂 executáveis/: Contém binários e arquivos para instalação.
+🖼️ imagens/: Pasta destinada a imagens do sistema.
+💻 src/: Contém o código-fonte, separado em Backend e Frontend.
+💻 Ambientes e Ferramentas de Desenvolvimento
+
+Android Studio: (Desenvolvimento do Aplicativo).
+
+CodeSandBox: (Autenticação de usuários e integração com o banco de dados).
+
+API Google Maps: (Análise do mapa e sugestão das rotas mais seguras, além de informar o pasageiro e motorista das zonas de perigo).
+
+🚘Funcionalidades do UberGuardian
+
+O UberPass foi desenvolvido para proporcionar mais segurança aos motoristas e passageiros durante suas viagens:
+
+✅ Disque Emergência: Acesso rápido aos números 180 e 190 para emergências, garantindo assistência imediata quando necessário.
+
+✅ Mapeamento de Segurança: Identificação e alerta de zonas de risco, além da localização das delegacias mais próximas para maior proteção.
+
+✅ Uber Pass Segurança: Usuários do Uber Pass recebem camadas extras de segurança e acesso a veículos mais novos para um deslocamento mais confortável e confiável.
+
+✅ Monitoramento Inteligente: Atualizações em tempo real sobre a viagem, reforçando a tranquilidade dos passageiros e motoristas.
+
+
+🛠️ Iniciar o UberPass
+
+Clone o repositório:
+git clone https://github.com/seu-usuario/ubershield.git
+Abra no Android Studio: Selecione "Open an existing project" e abra a pasta clonada.
+
+Configuração: Conecte um dispositivo físico ou configure um emulador em Tools > AVD Manager.
+
+Rodar o App: Clique no ícone play ou pressione Shift + F10.
+
+Atenção: Verifique os logs no Logcat para debug.
+
+📜 Licença
+
+Este projeto está licenciado sob a licença CC BY 4.0. Para mais informações, acesse Creative Commons.
+
+🎓 Referências
+
+GOVERNO FEDERAL. Registro Nacional de Infração de Trânsito - RENAINF. Disponível em: https://dados.gov.br/dados/conjuntos-dados/registro-nacional-de-infracoes-de-transito-renainf. Acesso em: 25 mar. 2025. | (Análise Descritiva de Dados)
+GOOGLE. Console Cloud. Disponível em: https://console.cloud.google.com/. Acesso em: 23 mar. 2025. | (API do Google)
