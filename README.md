@@ -80,12 +80,12 @@ Rodar o App: Clique no ícone play ou pressione Shift + F10.
 
 Atenção: Verifique os logs no Logcat para debug.
 
-📜 Licença
+# 📜 Licença
 
 Este projeto está licenciado sob a licença CC BY 4.0. Para mais informações, acesse Creative Commons. <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 
-🎓 Referências
+# 🎓 Referências
 
 🗺️ GOVERNO FEDERAL. Registro Nacional de Infração de Trânsito - RENAINF. Disponível em: https://dados.gov.br/dados/conjuntos-dados/registro-nacional-de-infracoes-de-transito-renainf. Acesso em: 25 mar. 2025. | (Análise Descritiva de Dados)
 
