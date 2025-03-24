@@ -17,6 +17,7 @@ Lucas Silva Maciel | RA 24025942| E-mail: lucassmaciel2006@gmail.com
 Leonardo Santos da Silva | RA 24026495| E-mail: Leonardoss0227@gmail.com
 
 Felipe Vallim Soares| RA 24026060| E-mail: Fvsoares2004@gmail.com
+
 . | RA . | E-mail: .
 
 📂 Estrutura do Projeto
@@ -80,5 +81,6 @@ Este projeto está licenciado sob a licença CC BY 4.0. Para mais informações,
 
 🎓 Referências
 
-GOVERNO FEDERAL. Registro Nacional de Infração de Trânsito - RENAINF. Disponível em: https://dados.gov.br/dados/conjuntos-dados/registro-nacional-de-infracoes-de-transito-renainf. Acesso em: 25 mar. 2025. | (Análise Descritiva de Dados)
-GOOGLE. Console Cloud. Disponível em: https://console.cloud.google.com/. Acesso em: 23 mar. 2025. | (API do Google)
+🗺️ GOVERNO FEDERAL. Registro Nacional de Infração de Trânsito - RENAINF. Disponível em: https://dados.gov.br/dados/conjuntos-dados/registro-nacional-de-infracoes-de-transito-renainf. Acesso em: 25 mar. 2025. | (Análise Descritiva de Dados)
+
+📍 GOOGLE. Console Cloud. Disponível em: https://console.cloud.google.com/. Acesso em: 23 mar. 2025. | (API do Google)
