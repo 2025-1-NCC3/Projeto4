@@ -29,6 +29,7 @@ Leonardo Santos da Silva | RA 24026495| E-mail: Leonardoss0227@gmail.com
 |-->src
  |-->Backend
  |-->Frontend
+ 
 |readme.md
 📄 README.md: Guia geral do projeto.
 📁 documentos/: Armazena toda a documentação do sistema.
