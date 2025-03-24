@@ -82,7 +82,8 @@ Atenção: Verifique os logs no Logcat para debug.
 
 📜 Licença
 
-Este projeto está licenciado sob a licença CC BY 4.0. Para mais informações, acesse Creative Commons.
+Este projeto está licenciado sob a licença CC BY 4.0. Para mais informações, acesse Creative Commons.<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
 
 🎓 Referências
 
