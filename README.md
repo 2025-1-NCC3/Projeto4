@@ -23,7 +23,7 @@ Leonardo Santos da Silva | RA 24026495| E-mail: Leonardoss0227@gmail.com
 
 Felipe Vallim Soares| RA 24026060| E-mail: Fvsoares2004@gmail.com
 
-. | RA . | E-mail: .
+Pedro Della Rosa Antônio | RA 24026018 E-mail: pedrodr.antonio466@gmail.com
 
 📂 Estrutura do Projeto
 
