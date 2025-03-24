@@ -55,7 +55,7 @@ MySQL e Azure: (Autenticação de usuários e integração com o banco de dados)
 
 API Google Maps: (Análise do mapa e sugestão das rotas mais seguras, além de informar o pasageiro e motorista das zonas de perigo).
 
-# 🚘Funcionalidades do UberPass
+# 🚘 Funcionalidades do UberPass
 
 O UberPass foi desenvolvido para proporcionar mais segurança aos motoristas e passageiros durante suas viagens:
 
