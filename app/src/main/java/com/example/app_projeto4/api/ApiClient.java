@@ -9,7 +9,7 @@ public class ApiClient {
     public static Retrofit getClient() {
         if (retrofit == null) {
             retrofit = new Retrofit.Builder()
-                    .baseUrl("http://localhost:3000/")
+                    .baseUrl("http://servidorapp4.mysql.database.azure.com")
                     .addConverterFactory(GsonConverterFactory.create())
                     .build();
         }
