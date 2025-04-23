@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.text.TextUtils;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -15,6 +16,7 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+import com.example.meuapp.MainActivity;
 import com.example.meuapp.api.ApiClient;
 import com.example.meuapp.api.AuthService;
 import com.example.meuapp.model.LoginRequest;
@@ -49,16 +51,16 @@ public class LoginActivity extends AppCompatActivity {
         // Inicializa o serviço de autenticação
         authService = ApiClient.getClient().create(AuthService.class);
 
-        // Clique no botão de login
+        // Adiciona clique no botão de login
         buttonLogin.setOnClickListener(view -> loginUser());
 
-        // Clique para a tela de cadastro
+        // Adiciona clique para a tela de cadastro
         textViewSignUpLink.setOnClickListener(v -> {
             Intent intent = new Intent(LoginActivity.this, Cadastro.class);
             startActivity(intent);
         });
 
-        // Clique para "Esqueceu a senha?"
+        // Adiciona clique para "Esqueceu a senha?"
         textViewForgotPassword.setOnClickListener(v -> {
             Toast.makeText(LoginActivity.this, "Função de recuperação de senha em breve!", Toast.LENGTH_SHORT).show();
         });
@@ -71,8 +73,7 @@ public class LoginActivity extends AppCompatActivity {
         textViewSignUpLink = findViewById(R.id.TextInscreverse);
         textViewForgotPassword = findViewById(R.id.TextEsqueceuSenha);
     }
-
-    // Função para aplicar a cifra de César (mesma usada no Cadastro.java)
+    // Função para aplicar a cifra de César (mesma do Cadastro.java)
     private String cifraDeCesar(String input, int chave) {
         StringBuilder resultado = new StringBuilder();
         for (char c : input.toCharArray()) {
@@ -80,7 +81,6 @@ public class LoginActivity extends AppCompatActivity {
         }
         return resultado.toString();
     }
-
     private void loginUser() {
         String email = editTextEmail.getText().toString().trim();
         String password = editTextPassword.getText().toString().trim();
@@ -89,8 +89,7 @@ public class LoginActivity extends AppCompatActivity {
             Toast.makeText(this, "Preencha todos os campos", Toast.LENGTH_SHORT).show();
             return;
         }
-
-        // Criptografa a senha com cifra de César (mesmo processo do cadastro)
+        // Aplica a cifra de César com chave 3 (igual no cadastro)
         String senhaCriptografada = cifraDeCesar(password, 3);
 
         LoginRequest request = new LoginRequest(email, senhaCriptografada);
@@ -98,17 +97,16 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onResponse(Call<LoginResponse> call, Response<LoginResponse> response) {
                 if (response.isSuccessful() && response.body() != null) {
+                    // Salvar o token em SharedPreferences
                     String token = response.body().getToken();
                     SharedPreferences preferences = getSharedPreferences("app", MODE_PRIVATE);
                     SharedPreferences.Editor editor = preferences.edit();
                     editor.putString("jwt_token", token);
-                    editor.apply();
+                    editor.apply();  // Salva o token persistente
 
                     Toast.makeText(LoginActivity.this, "Login bem-sucedido", Toast.LENGTH_SHORT).show();
-
-                    // Redirecionamento após login bem-sucedido
-                    Intent intent = new Intent(LoginActivity.this, IntroActivity.class);
-                    startActivity(intent);
+                    buttonLogin.setOnClickListener(v->{Intent intent = new Intent(LoginActivity.this, IntroActivity.class);
+                        startActivity(intent);});
                     finish();
                 } else {
                     Toast.makeText(LoginActivity.this, "Erro no login. Verifique suas credenciais.", Toast.LENGTH_SHORT).show();
