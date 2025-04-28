@@ -51,7 +51,7 @@
 
         <!-- Já existentes -->
         <activity
-            android:name=".MainActivity"
+            android:name="br.fecap.pi.uberpass.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -61,29 +61,29 @@
 
         <!-- Tela de Login -->
         <activity
-            android:name=".LoginActivity"
+            android:name="br.fecap.pi.uberpass.LoginActivity"
             android:exported="true" />
 
         <!-- Tela de Cadastro -->
         <activity
-            android:name=".Cadastro"
+            android:name="br.fecap.pi.uberpass.Cadastro"
             android:exported="true" />
 
         <!-- Demais atividades (sem filtro de intent) -->
         <activity
-            android:name=".ProfileActivity"
+            android:name="br.fecap.pi.uberpass.ProfileActivity"
             android:exported="true" />
 
         <activity
-            android:name=".IntroActivity"
+            android:name="br.fecap.pi.uberpass.IntroActivity"
             android:exported="true" />
 
         <activity
-            android:name=".MapaActivity"
+            android:name="br.fecap.pi.uberpass.MapaActivity"
             android:exported="true" />
 
         <activity
-            android:name=".CentralActivity"
+            android:name="br.fecap.pi.uberpass.CentralActivity"
             android:exported="true" />
     </application>
 

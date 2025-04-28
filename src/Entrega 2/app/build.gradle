@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.meuapp'
+    namespace 'br.fecap.pi.uberpass'
     compileSdk 35
 
     defaultConfig {
-        applicationId "com.example.meuapp"
+        applicationId "br.fecap.pi.uberpass"
         minSdk 24
         targetSdk 35
         versionCode 1
