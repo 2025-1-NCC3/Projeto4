@@ -21,18 +21,23 @@
 
 -Raiz
 |
-|-->Entrega1
+|-->documento
+|   |---->Entrega2
+|       |---->Analise Descritiva de Dados
+|        |---->Programação Orientada a Objetos
+|        ---->Programação para Dispositivos Móveis
+|        |----> Projeto Interdiciplinar-Aplicativo Movel
 |
-|-->app
-|
-|-->backend
-|
-|-->gradle
-|
-|-->node_modules
+|-->src
+|  |---->Entrega2
+|        |---->Back-end
+|        |---->Front-end
+|  
+|-->README.md
+
 
 📄 README.md: Guia geral do projeto.
-📁 Entrega1/: Entrega das outras materias referentes ao projeto
+📁 Entrega2/: Entrega das outras materias referentes ao projeto
 🖼️ drawable/: Pasta destinada a imagens do sistema.
 💻 app/: pasta com o Front-end
 💻 backend/: pasta com o Back-end
