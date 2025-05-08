@@ -5,6 +5,7 @@
 
 ## Membros do grupo: <a href="">Lucas Maciel </a>, <a href="">Leonardo Santos</a>, <a href="">Felipe Vallim</a> e <a href="">Pedro Della Rosa</a>
 </a>
+
 ## Professores Orientadores: <a href="">Prof. Vinicius Heltai Pacheco </a>, <a href="">Prof. Marco Aurelio Lima Barbosar</a>, <a href="">Profª. Katia Milani Lara Bossi</a> e <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti de Quiroz</a>
 </a>
 
