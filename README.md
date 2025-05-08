@@ -17,17 +17,6 @@
 
 ​O UberPass é um aplicativo desenvolvido no Android Studio utilizando a linguagem Java, projetado para aprimorar a segurança dos usuários durante suas viagens. Entre suas funcionalidades, destaca-se a discagem rápida para os serviços de emergência 180 e 190, além de fornecer informações sobre delegacias próximas e alertas de zonas de perigo. O aplicativo também oferece o Uber Pass, que proporciona benefícios como segurança extra e acesso a veículos mais novos, garantindo uma experiência de viagem mais segura e confortável para todos os usuários.​
 
-
-# 🫂 Integrantes do Projeto
-
-Lucas Silva Maciel | RA 24025942| E-mail: lucassmaciel2006@gmail.com
-
-Leonardo Santos da Silva | RA 24026495| E-mail: Leonardoss0227@gmail.com
-
-Felipe Vallim Soares| RA 24026060| E-mail: Fvsoares2004@gmail.com
-
-Pedro Della Rosa Antônio | RA 24026018 E-mail: pedrodr.antonio466@gmail.com
-
 # 📂 Estrutura do Projeto
 
 -Raiz
