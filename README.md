@@ -25,7 +25,7 @@
 |   |---->Entrega2
 |       |---->Analise Descritiva de Dados
 |        |---->Programação Orientada a Objetos
-|        ---->Programação para Dispositivos Móveis
+|        |---->Programação para Dispositivos Móveis
 |        |----> Projeto Interdiciplinar-Aplicativo Movel
 |
 |-->src
@@ -37,9 +37,9 @@
 
 
 📄 README.md: Guia geral do projeto.
-📁 Entrega2/: Entrega das outras materias referentes ao projeto
-🖼️ drawable/: Pasta destinada a imagens do sistema.
-💻 app/: pasta com o Front-end
+📁 documentos: Toda a documentação estará nesta pasta.
+🖼️ src: Pasta que contém o código fonte.
+💻 frontend/: pasta com o Front-end
 💻 backend/: pasta com o Back-end
 
 Android Studio: (Desenvolvimento do Aplicativo).
