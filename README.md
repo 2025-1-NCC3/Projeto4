@@ -70,7 +70,7 @@ Atenção: Verifique os logs no Logcat para debug.
 
 # 📜 Licença
 
-UberPass by Lucas,Leonardo, Felipe and Pedro is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1">"CC BY 4.0</a>. Para mais informações, acesse Creative Commons. <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+UberPass by Lucas,Leonardo, Felipe and Pedro is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1">"CC BY 4.0</a>.<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 
 # 🎓 Referências
