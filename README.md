@@ -54,8 +54,6 @@ O UberPass foi desenvolvido para proporcionar mais segurança aos motoristas e p
 
 ✅ Disque Emergência: Acesso rápido aos números 180 e 190 para emergências, garantindo assistência imediata quando necessário.
 
-✅ Mapeamento de Segurança: Identificação e alerta de zonas de risco, além da localização das delegacias mais próximas para maior proteção.
-
 ✅ Uber Pass Segurança: Usuários do Uber Pass recebem camadas extras de segurança e acesso a veículos mais novos para um deslocamento mais confortável e confiável.
 
 ✅ Monitoramento Inteligente: Atualizações em tempo real sobre a viagem, reforçando a tranquilidade dos passageiros e motoristas.
