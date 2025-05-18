@@ -19,27 +19,27 @@
 
 # 📂 Estrutura do Projeto
 
-##-Raiz
-##|
-##|-->documento
-##|   |---->Entrega2
-##|       |---->Analise Descritiva de Dados
-##|        |---->Programação Orientada a Objetos
-##|        |---->Programação para Dispositivos Móveis
-##|        |----> Projeto Interdiciplinar-Aplicativo Movel
-##|---->Entrega3
-##|       |---->Analise Descritiva de Dados
-##|       |---->Programação Orientada a Objetos
-##|---->Projeto de Extensão 
-##|       
-##|
-##|-->src
-##|  |---->Entrega3
-##|        |---->Back-end
-##|        |---->Front-end
-##|  
-##|-->README.md
-##|-->gitignore.txt
+-Raiz
+|
+|-->documento
+|   |---->Entrega2
+|       |---->Analise Descritiva de Dados
+|        |---->Programação Orientada a Objetos
+|        |---->Programação para Dispositivos Móveis
+|        |----> Projeto Interdiciplinar-Aplicativo Movel
+|---->Entrega3
+|       |---->Analise Descritiva de Dados
+|       |---->Programação Orientada a Objetos
+|---->Projeto de Extensão 
+|       
+|
+|-->src
+|  |---->Entrega3
+|        |---->Back-end
+|        |---->Front-end
+|  
+|-->README.md
+|-->gitignore.txt
 
 
 📄 README.md: Guia geral do projeto.
