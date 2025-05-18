@@ -3,6 +3,9 @@
 <p align="center">
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 
+## Membros do grupo: <a href="">Lucas Maciel </a>, <a href="">Leonardo Santos</a>, <a href="">Felipe Vallim</a> e <a href="">Pedro Della Rosa</a>
+</a>
+
 ## Professores Orientadores: <a href="">Prof. Vinicius Heltai Pacheco </a>, <a href="">Prof. Marco Aurelio Lima Barbosar</a>, <a href="">Profª. Katia Milani Lara Bossi</a> e <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti de Quiroz</a>
 </a>
 
@@ -14,35 +17,29 @@
 
 ​O UberPass é um aplicativo desenvolvido no Android Studio utilizando a linguagem Java, projetado para aprimorar a segurança dos usuários durante suas viagens. Entre suas funcionalidades, destaca-se a discagem rápida para os serviços de emergência 180 e 190, além de fornecer informações sobre delegacias próximas e alertas de zonas de perigo. O aplicativo também oferece o Uber Pass, que proporciona benefícios como segurança extra e acesso a veículos mais novos, garantindo uma experiência de viagem mais segura e confortável para todos os usuários.​
 
-
-# 🫂 Integrantes do Projeto
-
-Lucas Silva Maciel | RA 24025942| E-mail: lucassmaciel2006@gmail.com
-
-Leonardo Santos da Silva | RA 24026495| E-mail: Leonardoss0227@gmail.com
-
-Felipe Vallim Soares| RA 24026060| E-mail: Fvsoares2004@gmail.com
-
-Pedro Della Rosa Antônio | RA 24026018 E-mail: pedrodr.antonio466@gmail.com
-
 # 📂 Estrutura do Projeto
 
 -Raiz
 |
-|-->Entrega1
+|-->documento
+|   |---->Entrega2
+|       |---->Analise Descritiva de Dados
+|        |---->Programação Orientada a Objetos
+|        |---->Programação para Dispositivos Móveis
+|        |----> Projeto Interdiciplinar-Aplicativo Movel
 |
-|-->app
-|
-|-->backend
-|
-|-->gradle
-|
-|-->node_modules
+|-->src
+|  |---->Entrega2
+|        |---->Back-end
+|        |---->Front-end
+|  
+|-->README.md
+
 
 📄 README.md: Guia geral do projeto.
-📁 Entrega1/: Entrega das outras materias referentes ao projeto
-🖼️ drawable/: Pasta destinada a imagens do sistema.
-💻 app/: pasta com o Front-end
+📁 documentos: Toda a documentação estará nesta pasta.
+🖼️ src: Pasta que contém o código fonte.
+💻 frontend/: pasta com o Front-end
 💻 backend/: pasta com o Back-end
 
 Android Studio: (Desenvolvimento do Aplicativo).
@@ -56,8 +53,6 @@ API Google Maps: (Análise do mapa e sugestão das rotas mais seguras, além de 
 O UberPass foi desenvolvido para proporcionar mais segurança aos motoristas e passageiros durante suas viagens:
 
 ✅ Disque Emergência: Acesso rápido aos números 180 e 190 para emergências, garantindo assistência imediata quando necessário.
-
-✅ Mapeamento de Segurança: Identificação e alerta de zonas de risco, além da localização das delegacias mais próximas para maior proteção.
 
 ✅ Uber Pass Segurança: Usuários do Uber Pass recebem camadas extras de segurança e acesso a veículos mais novos para um deslocamento mais confortável e confiável.
 
@@ -78,7 +73,7 @@ Atenção: Verifique os logs no Logcat para debug.
 
 # 📜 Licença
 
-Este projeto está licenciado sob a licença CC BY 4.0. Para mais informações, acesse Creative Commons. <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+UberPass by Lucas, Leonardo, Felipe and Pedro is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1">"CC BY 4.0</a>.<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 
 # 🎓 Referências
